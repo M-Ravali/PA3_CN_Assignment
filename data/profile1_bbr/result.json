@@ -1,0 +1,7 @@
+{
+  "cc_algorithm": "bbr",
+  "profile": "profile1",
+  "avg_throughput": 48.64503421007553,
+  "avg_delay": 16.634218542385646,
+  "loss_rate": 0.0032447906482336378
+}

@@ -1,0 +1,7 @@
+{
+  "cc_algorithm": "cubic",
+  "profile": "profile1",
+  "avg_throughput": 42.961968687663074,
+  "avg_delay": 22.45563018941307,
+  "loss_rate": 0.0021313805090091074
+}

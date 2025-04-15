@@ -1,0 +1,7 @@
+{
+  "cc_algorithm": "vegas",
+  "profile": "profile2",
+  "avg_throughput": 0.8305546166102341,
+  "avg_delay": 322.374489735039,
+  "loss_rate": 0.0014755179177443748
+}
